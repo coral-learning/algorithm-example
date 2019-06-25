@@ -1,6 +1,7 @@
 package com.coral.learning.alg.algorithms.app.topcount;
 
-import com.udemo.algorithms.app.entity.NodeArgs;
+
+import com.coral.learning.alg.udemo.algorithms.app.entity.NodeArgs;
 
 public class DataNode  implements Comparable<NodeArgs>{
     private int count;

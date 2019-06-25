@@ -1,5 +1,6 @@
 package com.coral.learning.alg.udemo.algorithms.app;
-import com.udemo.algorithms.app.entity.NodeArgs;
+import com.coral.learning.alg.udemo.algorithms.app.entity.NodeArgs;
+
 import java.util.Iterator;
 import java.util.TreeSet;
 

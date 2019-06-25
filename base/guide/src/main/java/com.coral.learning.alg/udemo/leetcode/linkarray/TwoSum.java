@@ -1,6 +1,6 @@
 package com.coral.learning.alg.udemo.leetcode.linkarray;
 
-import com.udemo.leetcode.utils.PrintTool;
+import com.coral.learning.alg.udemo.leetcode.utils.PrintTool;
 
 import java.util.HashMap;
 import java.util.Map;
